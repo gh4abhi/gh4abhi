@@ -28,5 +28,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gh4abhi&theme=holi-theme&background=0D1117&border=dddddd" /> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gh4abhi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="gh4abhi" />
 </p>
-
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=riti2409&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
