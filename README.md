@@ -27,6 +27,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gh4abhi&show_icons=true&theme=github_dark&custom_title=Abhishek%27s%20Github%20Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gh4abhi&theme=holi-theme&background=0D1117&border=dddddd" /> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gh4abhi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="gh4abhi" />
-
 </p>
+[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=gh4abhi&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Abhishek%27s%20Activity%20Graph&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
