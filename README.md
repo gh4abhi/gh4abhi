@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Swaroop Shrivastava</h1>
 <h3 align="center">Passionate to learn new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gh4abhi&label=Profile%20views&color=0e75b6&style=flat" alt="gh4abhi" /> </p>
 
 - 📝 You can check some of my blogs at [https://medium.com/@gh4abhi](https://medium.com/@gh4abhi)
 
