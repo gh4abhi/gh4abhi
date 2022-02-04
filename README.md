@@ -34,11 +34,11 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=gh4abhi&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Abhishek%27s%20Activity%20Graph&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=gh4abhi&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Abhishek%27s%20Activity%20Graph&theme=react-dark)](https://github.com/gh4abhi/github-readme-activity-graph)
 
 <p align="center"> 
  <b> Visitor count </b> <br>
-  <img src="https://profile-counter.glitch.me/acrolyte/count.svg" />
+  <img src="https://profile-counter.glitch.me/gh4abhi/count.svg" />
  </p>
  
 
