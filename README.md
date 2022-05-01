@@ -19,7 +19,7 @@
 - ⚡ I like **reading books and taking care of my Physical Fitness.**
 
 
-- 📝 You can check some of my blogs at [https://medium.com/@gh4abhi](https://medium.com/@gh4abhi)
+- 📝 You can check some of my blogs at [@gh4ahbi](https://medium.com/@gh4abhi)
 
 - 📫 How to reach me **gh4abhi@gmail.com**
 <br>
