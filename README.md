@@ -1,5 +1,29 @@
 <h1 align="center">Hi 👋, I'm Abhishek Swaroop Shrivastava</h1>
 <h3 align="center">Passionate to learn new things.</h3>
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <h4>I am Akhilesh Singh. I'm a Front End Web Developer and an aspring Android Developer from INDIA. Currently I'm pursiung my B.Tech degree in the field of Computer Science and Engineering From KIET Group of Institutions and I'm in 3rd year of my undergrad course.</h4>
+
+<br/> <br/>
+
+
+<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://raw.githubusercontent.com/akhilesh59/akhilesh59/main/night%20programmer.gif" height="175px"/></a>
+
+
+
+## 🙋‍♂️ An Overview About Me:
+
+- 🔭 I’m currently working on **Problem Solving and Competitive Programming Skills**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 🌱 In Development, I’m currently learning **Android Development using Kotlin.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio ka link paste karo isme)** -->
+
+- 📫 How to reach me **akhisingh6871@gmail.com**
+
+- ⚡ Fun fact **I love Acting and taking care of my Physical Fitness.**
 
 
 - 📝 You can check some of my blogs at [https://medium.com/@gh4abhi](https://medium.com/@gh4abhi)
