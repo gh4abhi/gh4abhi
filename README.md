@@ -16,8 +16,6 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://Link)** -->
 
-- 📫 How to reach me **akhisingh6871@gmail.com**
-
 - ⚡ Fun fact **I love Acting and taking care of my Physical Fitness.**
 
 
