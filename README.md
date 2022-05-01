@@ -8,15 +8,13 @@
 
 ## 🙋‍♂️ An Overview About Me:
 
-- 🔭 I’m currently working on **Problem Solving and Competitive Programming Skills**
+- 🔭 I’m an AR/VR Developer at **Innogeeks**.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 🌱 In Development, I’m currently learning **Android Development using Kotlin.**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio ka link paste karo isme)** -->
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://Link)** -->
 
 - 📫 How to reach me **akhisingh6871@gmail.com**
 
