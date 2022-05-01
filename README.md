@@ -3,7 +3,7 @@
 
 <br>
 
-<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://github.com/gh4abhi/gh4abhi/blob/main/giphy.gif" height="175px"/></a>
+<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://github.com/gh4abhi/gh4abhi/blob/main/xero-code.gif"/></a>
 
 
 ## 🙋‍♂️ An Overview About Me:
