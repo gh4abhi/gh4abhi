@@ -3,25 +3,25 @@
 
 <br>
 
-<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://github.com/gh4abhi/gh4abhi/blob/main/xero-code.gif"/></a>
+<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://github.com/gh4abhi/gh4abhi/blob/main/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg"/></a>
 
 
 ## 🙋‍♂️ An Overview About Me:
 
 - 🔭 I’m an AR/VR Developer at **Innogeeks**.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://Link)** -->
 
-- ⚡ I like **reading books and taking care of my Physical Fitness.**
+- ⚡ I like **reading books and taking care of my physical fitness**
 
 
-- 📝 You can check some of my blogs at [https://medium.com/@gh4abhi](https://medium.com/@gh4abhi)
+- 📝 You can check some of my **blogs** at [@gh4ahbi](https://medium.com/@gh4abhi)
 
-- 📫 How to reach me **gh4abhi@gmail.com**
+- 📫 How to **reach me** **gh4abhi@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
