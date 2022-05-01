@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Swaroop Shrivastava</h1>
 <h3 align="center">Passionate to learn new things.</h3>
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <h4>I am Akhilesh Singh. I'm a Front End Web Developer and an aspring Android Developer from INDIA. Currently I'm pursiung my B.Tech degree in the field of Computer Science and Engineering From KIET Group of Institutions and I'm in 3rd year of my undergrad course.</h4>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <h4>I am Akhilesh Singh. I'm a Front End Web Developer and an aspring Android Developer from INDIA. Currently I'm pursiung my B.Tech degree in the field of Computer Science and Engineering From KIET Group of Institutions and I'm in 3rd year of my undergrad course.</h4>
 
 <br/> <br/>
 
