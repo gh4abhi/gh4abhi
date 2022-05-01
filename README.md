@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Swaroop Shrivastava</h1>
 <h3 align="center">Passionate to learn new things.</h3>
 
-<br>
+<br><br><br>
 
 <a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://raw.githubusercontent.com/akhilesh59/akhilesh59/main/night%20programmer.gif" height="175px"/></a>
 
