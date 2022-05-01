@@ -16,7 +16,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://Link)** -->
 
-- ⚡ Fun fact **I like reading books and taking care of my Physical Fitness.**
+- ⚡ I like **reading books and taking care of my Physical Fitness.**
 
 
 - 📝 You can check some of my blogs at [https://medium.com/@gh4abhi](https://medium.com/@gh4abhi)
