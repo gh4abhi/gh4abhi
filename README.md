@@ -21,7 +21,7 @@
 
 - 📝 You can check some of my **blogs** at [@gh4ahbi](https://medium.com/@gh4abhi)
 
-- 📫 How to **reach** me **gh4abhi@gmail.com**
+- 📫 How to **reach me** **gh4abhi@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
