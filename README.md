@@ -10,13 +10,13 @@
 
 - 🔭 I’m an AR/VR Developer at **Innogeeks**.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://Link)** -->
 
-- ⚡ I like **reading books and taking care of my Physical Fitness.**
+- ⚡ I like **reading books and taking care of my physical fitness**
 
 
 - 📝 You can check some of my blogs at [@gh4ahbi](https://medium.com/@gh4abhi)
