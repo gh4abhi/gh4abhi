@@ -3,7 +3,7 @@
 
 <br>
 
-<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://github.com/gh4abhi/gh4abhi/blob/main/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg"/></a>
+<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://github.com/gh4abhi/gh4abhi/blob/main/Profile%20Image.jpg"/></a>
 
 
 ## 🙋‍♂️ An Overview About Me:
