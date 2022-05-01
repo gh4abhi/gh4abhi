@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ An Overview About Me:
 
-- 🔭 I’m an AR/VR Developer at **Innogeeks**.
+- 🔭 I’m an AR/VR Developer at **Innogeeks(https://innogeeks.in/)**.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
