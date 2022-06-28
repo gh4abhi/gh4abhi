@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 <h2><i>Top Repositories</i></h2>
 
 
-<p>
+<p align = "center">
     <a href="https://github.com/m-sehrawat/Nike-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
