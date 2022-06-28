@@ -62,5 +62,4 @@ You can click the Preview link to take a look at your changes.
  
 
 ## 🌱 Contributions
-<p align = "center>
-            ![snake gif](https://github.com/gh4abhi/gh4abhi/blob/output/github-contribution-grid-snake.gif)</p>
+![snake gif](https://github.com/gh4abhi/gh4abhi/blob/output/github-contribution-grid-snake.gif)
