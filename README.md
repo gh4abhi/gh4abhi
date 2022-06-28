@@ -54,9 +54,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=gh4abhi&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Abhishek%27s%20Activity%20Graph&theme=react-dark)](https://github.com/gh4abhi/github-readme-activity-graph)
+<br>
 <!----------------------------------- Top Repository Section ------------------------------------>
 
-<h2><i>Top Repositories</i></h2>
+## ✨ Top Repositories
 <p align = "center">
     <a href="https://github.com/gh4abhi/Data-Structures-and-Algorithms">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Data-Structures-and-Algorithms&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
@@ -67,12 +68,12 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/gh4abhi/Stellarus">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Stellarus&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
   </a>
-<a href="https://github.com/gh4abhi/Rocket-Legends">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Rocket-Legends&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
+<a href="https://github.com/gh4abhi/Terminal-Hacker">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Terminal-Hacker&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
   </a>  
 </p>
 <p align="center"> 
- <b> Visitor count </b> <br>
+ <b> Visitor's count </b> <br>
   <img src="https://profile-counter.glitch.me/gh4abhi/count.svg" />
  </p>
 
