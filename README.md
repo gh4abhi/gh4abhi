@@ -57,12 +57,6 @@ You can click the Preview link to take a look at your changes.
 <!----------------------------------- Top Repository Section ------------------------------------>
 
 <h2><i>Top Repositories</i></h2>
-
-
-<p align = "center">
-    <a href="https://github.com/gh4abhi/Competitive-Programming">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Competitive-Programming&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
-    </a>
     <a href="https://github.com/gh4abhi/Data-Structures-and-Algorithms">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Data-Structures-and-Algorithms&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
 </p>
