@@ -71,6 +71,12 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/gh4abhi/Terminal-Hacker">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Terminal-Hacker&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
   </a>  
+  <a href="https://github.com/gh4abhi/Autotype">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Autotype&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
+  </a>  
+  <a href="https://github.com/gh4abhi/Competitive-Programming">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Competitive-Programming&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
+  </a>  
 </p>
 <p align="center"> 
  <b> Visitor's count </b> <br>
