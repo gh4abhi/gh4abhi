@@ -16,10 +16,10 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 👨‍ You can visit my **Credly Profile** - [gh4ahbi](https://www.credly.com/users/gh4abhi)
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://Link)** -->
 
 - ⚡ I like **reading books and playing football**
-
 
 - 📝 You can check some of my **blogs** at [@gh4ahbi](https://medium.com/@gh4abhi)
 
