@@ -18,7 +18,7 @@
 
 - 👨‍ You can view my **Credly Profile** at [gh4ahbi](https://www.credly.com/users/gh4abhi)
  
-- 👨‍💻 Check my portfolio **[gh4abhi](https://gh4abhi.github.io/Web-Portfolio/)**
+- 👨‍💻 Check my **portfolio** at **[gh4abhi](https://gh4abhi.github.io/Web-Portfolio/)**
 
 - ⚡ I like **reading books and playing football**
 
