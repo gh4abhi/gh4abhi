@@ -16,13 +16,13 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍ You can view my **Credly Profile** at [gh4ahbi](https://www.credly.com/users/gh4abhi)
+- 👨‍ You can view my **Credly Profile** at **[gh4ahbi](https://www.credly.com/users/gh4abhi)**
  
 - 👨‍💻 Check my **portfolio** at **[gh4abhi](https://gh4abhi.github.io/Web-Portfolio/)**
 
 - ⚡ I like **reading books and playing football**
 
-- 📝 You can check some of my **blogs** at [@gh4ahbi](https://medium.com/@gh4abhi)
+- 📝 You can check some of my **blogs** at **[@gh4ahbi](https://medium.com/@gh4abhi)**
 
 - 📫 How to **reach me** **gh4abhi@gmail.com**
 <br>
