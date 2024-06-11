@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ An Overview About Me:
 
-- 🔭 I’m an AR/VR Developer at <a href = "https://innogeeks.in/"><b>Innogeeks</b></a>
+- 🔭 I’m a Software Developer at <a href = "https://www.tcs.com/"><b>TCS</b></a>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
