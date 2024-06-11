@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ An Overview About Me:
 
-- 🔭 I’m a Software Developer at <a href = "https://www.tcs.com/"><b>Tata Consultancy Services</b></a>
+- 🔭 I’m a Software Developer at <a href = "https://www.tcs.com/"><b>TCS</b></a>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
