@@ -83,5 +83,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/gh4abhi/count.svg" />
  </p>
 
-## 🌱 Contributions
-![snake gif](https://github.com/gh4abhi/gh4abhi/blob/output/github-contribution-grid-snake.gif)
+<!--- ## 🌱 Contributions
+![snake gif](https://github.com/gh4abhi/gh4abhi/blob/output/github-contribution-grid-snake.gif) --->
