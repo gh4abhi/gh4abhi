@@ -78,10 +78,10 @@ You can click the Preview link to take a look at your changes.
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Competitive-Programming&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
   </a>  
 </p>
-<p align="center"> 
+<!-- <p align="center"> 
  <b> Visitor's count </b> <br>
   <img src="https://profile-counter.glitch.me/gh4abhi/count.svg" />
- </p>
+ </p> -->
 
 <!--- ## 🌱 Contributions
 ![snake gif](https://github.com/gh4abhi/gh4abhi/blob/output/github-contribution-grid-snake.gif) --->
